@@ -1,0 +1,27 @@
+{
+	"id": "7bc1532e-7658-4527-af7a-553a6f59e9f0",
+	"name": "practise env",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-07-20T10:40:56.266Z",
+	"_postman_exported_using": "Postman/11.54.6"
+}
